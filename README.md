@@ -13,12 +13,18 @@
 
 #### Image of the output for Problem #1
 
-![Normalization Problem](https://github.com/user-attachments/assets/473c9780-b47c-41ea-90b1-a588d7e288c2)
+![Normalization Problem](https://github.com/user-attachments/assets/03005fbb-6b3b-4622-a98b-a9aac155ebde)
+
+
+#### Loading 'X_normalized.npy'
+
+![image](https://github.com/user-attachments/assets/82e58d03-f042-4a31-8d84-3eaa7c590349)
 
 
 #### Image of the Output for Problem #2
 
 ![Divisible by 3 Problem](https://github.com/user-attachments/assets/75e655c8-9a05-4f7a-babe-72ac9d2d6a4e)
 
+#### Loading 'div_by_3.npy'
 
-
+![image](https://github.com/user-attachments/assets/933edf88-5c45-45a1-9c31-210d6272451b)
