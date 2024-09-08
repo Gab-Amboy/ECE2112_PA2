@@ -3,6 +3,10 @@
 ##### Section: 2ECE-A
 ##### Date Submitted: September 1, 2024
 
+## I. Intended Learning Outcomes
+#### CILO1: Identify methods and techniques to solve complex engineering problems using Python.
+#### CILO2: Use Python to solve unknown variables in complex electronics problems based on engineering, science, and math principles.
+
 ## Problems
 
 #### **#1 NORMALIZATION PROBLEM:** create a random 5 x 5 ndarray and store it to variable X. Normalize X. Save your normalized ndarray as X_normalized.npy
